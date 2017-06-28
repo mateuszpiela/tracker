@@ -1,4 +1,4 @@
-# PP-Tracker (Pobieranie informacji na temat przesyłki porzez API Poczty Polskiej)
+# PP-Tracker (Pobieranie informacji na temat przesyłki poprzez API Poczty Polskiej)
 
 ## Licencja
 >    PP-Tracker pobiera informacje na temat przesyłki z serwera poczty polskiej
@@ -61,3 +61,6 @@ C:\Python34\python.exe -m pp-tracker twój_numer_przesyłki
 Json
 
 Argparse
+
+## Asciicast
+[![asciicast](https://asciinema.org/a/7LLjoiUnJLoKumMosCCtVLd5a.png)](https://asciinema.org/a/7LLjoiUnJLoKumMosCCtVLd5a)
